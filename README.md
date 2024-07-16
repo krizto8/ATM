@@ -8,7 +8,7 @@ A simple python application that mimics the functions of an ATM. Includes most o
 - MySQL intergation with python
 - matplotlib
 - JSON and Pickle modules
-- File Handlin
+- File Handling
 
 
 
